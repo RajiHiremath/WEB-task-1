@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+ 
+ }
+ #tabel1{
+    background-color: darkturquoise;
+    color: black;
+    font-size: 19px;
+    border: 2px dashed;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 0%;
+    margin:auto ;
+    padding :3%;
+    
+}
